@@ -1,0 +1,5 @@
+wheel
+bdist-wheel-name==0.1.0
+selenium==3.141.0
+chromedriver-py==91.0.4472.19
+chromedriver_installer==0.0.6
