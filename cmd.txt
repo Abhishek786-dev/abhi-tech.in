@@ -1,0 +1,7 @@
+1.git init   - create local repo
+2.git status - tracking modified or new file
+3.git add .  - adding all changes files
+4.git commit -m - push a code to a current repo 
+5.git branch    - a list of branch
+5.git checkout  - it is  working on files,commits,branches
+6. git checkout -b new-branch-name   - creating new branch and direct to switch 
